@@ -31,5 +31,13 @@
     "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "strapi",
+    "strapi plugin",
+    "heroicons",
+    "strapi custom field",
+    "strapi icons",
+    "strapi heroicons"
+  ]
 }
