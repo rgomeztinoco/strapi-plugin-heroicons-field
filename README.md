@@ -14,8 +14,8 @@
 <p align="center">Plugin for adding heroicons to <a href="https://strapi.io/" target="_blank">Strapi</a>.</p>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/strapi-plugin-heroicons-field">
-    <img src="https://badge.fury.io/js/strapi-plugin-heroicons-field.svg"
+  <a href="https://www.npmjs.com/package/strapi-plugin-heroicons-field">
+    <img src="https://img.shields.io/npm/v/strapi-plugin-heroicons-field"
          alt="Gitter">
   </a>
 </p>
