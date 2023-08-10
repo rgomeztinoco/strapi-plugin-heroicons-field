@@ -11,7 +11,7 @@
   Strapi heroicons field plugin
 </h1>
 
-<p align="center">Hero Icons plugin for <a href="https://strapi.io/" target="_blank">Strapi</a>.</p>
+<p align="center">Plugin for adding heroicons to <a href="https://strapi.io/" target="_blank">Strapi</a>.</p>
 
 <p align="center">
   <a href="https://badge.fury.io/js/strapi-plugin-heroicons-field">
