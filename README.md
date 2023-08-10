@@ -51,7 +51,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need to be in the folder of your strapi application. From your command line:
+To install this plugin, you'll need to be in the folder of your strapi application. Then, from your command line:
 
 ```bash
 # Clone this repository
