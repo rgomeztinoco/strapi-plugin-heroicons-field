@@ -5,7 +5,7 @@ module.exports = {
     strapi.customFields.register({
       name: 'icon-picker',
       plugin: 'heroicons-field',
-      type: 'string'
+      type: 'text'
     });
   },
 }
