@@ -15,8 +15,9 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/strapi-plugin-heroicons-field">
-    <img src="https://img.shields.io/npm/v/strapi-plugin-heroicons-field"
-         alt="Gitter">
+    <img src="https://img.shields.io/npm/v/strapi-plugin-heroicons-field" alt="Version">
+    <img src="https://img.shields.io/npm/l/strapi-plugin-heroicons-field
+" alt="License">
   </a>
 </p>
 
