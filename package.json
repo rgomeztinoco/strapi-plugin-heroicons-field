@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-heroicons-field",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Strapi plugin. Adds a heroicon picker custom field to your content types. Returns the svg and the name of the icon as a stringyfied JSON object.",
   "strapi": {
     "name": "heroicons-field",
